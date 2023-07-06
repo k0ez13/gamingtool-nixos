@@ -1,6 +1,3 @@
-### How to install
-
-
 ### Create a folder
 
 ```create pkgs folder in /etc/nixos/```
