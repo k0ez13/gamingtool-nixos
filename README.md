@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="/lsx/gamingtool.png" alt="/photo_2022-11-14_20-42-45">
-</p>
-
 ### How to install
+
 
 ### Create a folder
 
@@ -20,6 +17,8 @@
 ### Rebuild your system
 ```sudo nixos-rebuild switch```
 
-
+<p align="center">
+  <img src="/lsx/gamingtool.png" alt="photo_2022-11-14_20-42-45">
+</p>
 
 
