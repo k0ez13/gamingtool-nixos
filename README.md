@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/lsx/gamingtool.png" alt="gamingtool">
+  <img src="/lsx/gamingtool.png" alt="/photo_2022-11-14_20-42-45">
 </p>
 
 ### How to install
