@@ -1,4 +1,8 @@
-### How to use
+<p align="center">
+  <img src="/lsx/gamingtool.png" alt="gamingtool">
+</p>
+
+### How to install
 
 ### Create a folder
 
